@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "FZSKJW--GB1-0, FZSKJW--GB1";
+  src: url('FZSKJW-GB1-0.TTF');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "D-DIN-Bold, D-DIN";
+  src: url('D-DIN-Bold.ttf');
+  font-weight: normal;
+  font-style: normal;
+}

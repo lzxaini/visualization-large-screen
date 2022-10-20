@@ -1,0 +1,57 @@
+
+.home {
+  position: relative;
+  width: 100%;
+  height: calc(100% - 167px);
+  // opacity: 0.7;
+  // 模块1样式及布局
+  .module-1 {
+    width: 1344px;
+    height: calc(50% - 30px);
+    position: absolute;
+    top: 0;
+    left: 68px;
+  }
+
+  // 模块2样式及布局
+  .module-2 {
+    width: 1870.73px;
+    height: calc(100% - 50px);
+    position: absolute;
+    top: 0;
+    left: 50%;
+    bottom: 50px;
+    transform: translate(-50%);
+  }
+
+  .module-3 {
+    width: 1344px;
+    height: calc(50% - 30px);
+    position: absolute;
+    top: 0;
+    right: 68px;
+  }
+
+  .module-4 {
+    width: 1344px;
+    height: calc(50% - 30px);
+    position: absolute;
+    bottom: 50px;
+    left: 68px;
+  }
+
+  .module-5 {
+    width: 1344px;
+    height: calc(50% - 30px);
+    position: absolute;
+    bottom: 50px;
+    right: 68px;
+  }
+  // .module-6 {
+  //   width: 460px;
+  //   height: calc(50% - 6px);
+  //   position: absolute;
+  //   bottom: 0;
+  //   right: 68px;
+  // }
+}
